@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.misol__soat{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.misol__soat-text{
+    font-size: 45px;
+    font-family: sans-serif;
+}
+.misolFirst-text{
+    color: red;
+}
+.misolSecond-text{
+    color: rgb(30, 255, 0);
+}
+.misolThird-text{
+    color: blueviolet;
+}
+.misolFourth-text{
+    color: rgb(0, 132, 255);
+}
